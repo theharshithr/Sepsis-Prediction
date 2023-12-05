@@ -5,5 +5,6 @@ Sepsis is categorized into three distinct stages: sepsis, severe sepsis, and sep
 - Sepsis
 - Severe Sepsis
 - Septic Shock
+  
 ![image](https://github.com/theharshithr/Sepsis-Prediction/assets/55926625/86d68953-b1ad-4853-b0b0-b7d1aa9360b4)
 According to estimates by the World Health Organization (WHO), sepsis affects over 30 million individuals all over the world annually, resulting in approximately 6 million fatalities. The associated healthcare costs surpass US$24 billion annually in the United States alone.
